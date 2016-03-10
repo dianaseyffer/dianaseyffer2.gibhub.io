@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+div {
+	background-color: #746363;
+	align-content: center;
+}
+
+ol { 
+	color: #231616;
+}
+
+
+p {
+    font-family: Arial;
+    color: #434343;
+    font-size: 24px;
+}
+
+
+th {
+	color:#4C4748;
+	align: center;
+}
+
+{
+	div { background-color: #2E1919 
+        height: 600px;
+        width: 600px;
+}
+tbody {
+	color:#4C4748;
+}
+body {
+	background-color: #746363;
+	align-content: center;
+}
